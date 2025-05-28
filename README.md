@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/luiz-albuquerque-372a7925a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 
-Sou estudante de Ciência da Computação, sigo com foco constante na evolução de meus conhecimentos e tenho paixão por aprender. Faço trabalhos na área da tecnologia com o objetivo de crescer profissionalmente e ajudar pessoas.
+Sou estudante de Sistemas de Informação, sigo com foco constante na evolução de meus conhecimentos e tenho paixão por aprender. Faço trabalhos na área da tecnologia com o objetivo de crescer profissionalmente e ajudar pessoas.
 
 ## Tecnologias
 
